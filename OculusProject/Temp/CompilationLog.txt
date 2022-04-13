@@ -1,0 +1,62 @@
+# Starting compiling UnityEngine.UI.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d7191a5e09e944dc7ba41a56057763a9
+# Starting compiling UnityEngine.TestRunner.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c915826fafc8a4ce99b4464942d6752a
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-70c1323bd71234265a3d7960e940a373
+# Starting compiling AssistantCoreSDKRuntime.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f449abe1bc0b34efdaf5d8e841b1451a
+# Starting compiling Unity.InputSystem.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c6aee712a7304d2da8e09fe2ef74d72
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e4c682a56e8145aa9cc9b3128951eb8
+# Starting compiling UnityEngine.SpatialTracking.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7218778c0849946a3abb0a4b38c08fff
+# Starting compiling Facebook.WitAI.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-12e19a44e846a4067b2ce2e6434f4e37
+# Starting compiling Unity.XR.Management.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3b8de1c4ae189437e99b5fa451e2b0ef
+# Starting compiling Oculus.Platform.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fd80f2c20b8324c94b75aec1f1188a0c
+# Starting compiling Oculus.Spatializer.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-25b02fac2acf54781bbc71de8cf69f46
+# Starting compiling Unity.Timeline.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2bcdb019b0da14eb1becf6ee12148c98
+# Starting compiling Unity.TextMeshPro.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4b4eac440b1d845818c7f9c99fd9d4c4
+# Starting compiling Unity.Subsystem.Registration.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8e640ed05a6a44bd0a0f610df9d31087
+# Starting compiling Unity.Mathematics.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f8d19a300b55c4dacb4000a9b8f550b9
+# Starting compiling Unity.Postprocessing.Runtime.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-980c977eed1744d089798c955425c3b9
+# Starting compiling Oculus.AudioManager.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9ff61d315b093427f8b2490057772fbd
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c77d31bb339c945d28ca95eab893feae
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6774415a4f80748b89c9a35e8cdf1615
+# Starting compiling Oculus.LipSync.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4eb806e3a172b4363938a5bc083b0c11
+# Starting compiling VoiceSDK.Runtime.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5338a3c6ec65c4ba6bf8c918374d4137
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e420670fb7ce14608bfaed9cd558a50d
+# Starting compiling Unity.XR.CoreUtils.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7f9f4f91041484be48ae72964de263cf
+# Starting compiling Unity.XR.Oculus.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6251244249a3e42e1ad99bab12367d8b
+# Starting compiling Unity.XR.Interaction.Toolkit.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2e97274af32fe405185a70d38986eaa6
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b2633ac23a58a4171a71c2cac9bde0ca
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-369f0f44298704227959bc84230aa28e
+# Starting compiling Oculus.VR.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dd1854c25849740c59ef46becc59596c
+# Starting compiling Oculus.Interaction.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-60d492ae8dd2946ed952201173285098
+# Starting compiling Oculus.Interaction.Samples.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-58e6e042dc5d042758d800a9902bc72b
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/2020.3.18f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5c913fc6b670f4e1586afff47947c44d

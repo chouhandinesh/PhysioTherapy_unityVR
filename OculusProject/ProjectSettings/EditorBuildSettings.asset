@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InteractionMenu.unity
     guid: 59500235cb22a49589a214b7cd96c587
-  - enabled: 0
-    path: Assets/PolygonStarter/Scenes/Demo.unity
-    guid: 5215016c20f88ea498985ac3e0ab4f9d
+  - enabled: 1
+    path: Assets/Scenes/apple plucking environment.unity
+    guid: d5762e8698b8c49d7a0ecbe5664ed72d
+  - enabled: 1
+    path: Assets/Scenes/Zombie Graveyard.unity
+    guid: fe23b7dcee2c94417956ae85d1c28715
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 68fef928233df5144b8a596308b89122,
       type: 2}

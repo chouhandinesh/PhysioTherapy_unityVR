@@ -33,6 +33,8 @@ public class BotAI : MonoBehaviour
     float tempSwitchTime;
 
 
+    public GameObject dialogBox;
+
     static System.Random R = new System.Random();
     static T RandomEnumValue<T>()
     {
@@ -69,6 +71,7 @@ public class BotAI : MonoBehaviour
                 IdleSwitch();
                 tempSwitchTime = idleSwitchTime;
             }
+            dialogBox.SetActive(false);
         }
         else   // when player is in range to talk
         {
@@ -77,9 +80,13 @@ public class BotAI : MonoBehaviour
                 LookAtPlayer();
 
                 startedWaving = true;
+
+                dialogBox.SetActive(true);
             }
         }
+
         
+
     }
 
     private void LookAtPlayer()
